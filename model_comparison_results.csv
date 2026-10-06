@@ -1,0 +1,4 @@
+Model,Accuracy,Micro-F1
+KNN,0.6446,0.6446
+Neural Network,0.6329,0.6329
+Random Forest,0.7197,0.7197
